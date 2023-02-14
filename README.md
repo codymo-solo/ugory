@@ -4,6 +4,7 @@
 ### Матеріали для роботи з відео
 - [Посилання на макет фігма](https://codymo.in.ua/channel_assets/ugory/Ugory_fragment.fig)
 - [Архів із заготовкою](https://codymo.in.ua/channel_assets/ugory/ugory_template.zip)
+- [Шрифт SofiaSans](https://fonts.google.com/specimen/Sofia+Sans)
 
 ### Як відкрити макет у Figma
 - Зареєструватися/зайти на сайті - https://www.figma.com/
