@@ -14,3 +14,5 @@
 ### Додаткові посилання
 - [Завантажити VSCode](https://code.visualstudio.com/download)
 - [Плагін для VScode - eCSSTracktor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
+
+<a href="https://www.youtube.com/watch?v=yYWRMVzjTmU" target="_blank">Посилання на відео на каналі Youtube</>
