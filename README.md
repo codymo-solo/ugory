@@ -16,4 +16,7 @@
 - [Завантажити VSCode](https://code.visualstudio.com/download)
 - [Плагін для VScode - eCSSTracktor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
 
-<a href="https://www.youtube.com/watch?v=yYWRMVzjTmU" target="_blank">Посилання на відео на каналі Youtube</a>
+### Відео верстки макета
+- [Перша частина](https://youtu.be/yYWRMVzjTmU)
+- [Друга частина](https://youtu.be/8nx6WdUmeA0)
+- [Третя частина](https://youtu.be/xhKGbjPDsqQ)
