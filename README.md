@@ -1,6 +1,6 @@
 ![Фрагмент макета "Угору"](https://codymo.in.ua/channel_assets/ugory/head.jpg)
-[![Мій ютуб-канал](https://codymo.in.ua/channel_assets/ugory/ytchan.png)](https://www.youtube.com/channel/UCIh-HfVOkTHnTy0HZyAeTIQ){width=150px}
-[![Мій ютуб-канал](https://codymo.in.ua/channel_assets/ugory/tgchan.png)](https://t.me/codymoChannel){width=150px}
+[![Мій ютуб-канал](https://codymo.in.ua/channel_assets/ugory/ytchan.png)](https://www.youtube.com/channel/UCIh-HfVOkTHnTy0HZyAeTIQ)
+[![Мій ютуб-канал](https://codymo.in.ua/channel_assets/ugory/tgchan.png)](https://t.me/codymoChannel)
 # Фрагмент макета "Угору". Верстка з нуля для новачків | CSS HTML
 
 ### Матеріали для роботи з відео
