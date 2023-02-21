@@ -5,6 +5,10 @@
 - [Посилання на макет фігма](https://codymo.in.ua/channel_assets/ugory/Ugory_fragment.fig)
 - [Архів із заготовкою](https://codymo.in.ua/channel_assets/ugory/ugory_template.zip)
 - [Шрифт SofiaSans](https://fonts.google.com/specimen/Sofia+Sans)
+- Формула для обчислення розмірів шрифта:
+```
+font-size: calc(36px + (64 - 36) * (( 100vw - 375px ) / (1920 - 375)));
+```
 
 ### Як відкрити макет у Figma
 - Зареєструватися/зайти на сайті - https://www.figma.com/
