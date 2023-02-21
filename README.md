@@ -1,5 +1,5 @@
 ![Фрагмент макета "Угору"](https://codymo.in.ua/channel_assets/ugory/head.jpg)
-# Фрагмент макета "Угору". Верстка з нуля для новачків
+# Фрагмент макета "Угору". Верстка з нуля для новачків | CSS HTML
 
 ### Матеріали для роботи з відео
 - [Посилання на макет фігма](https://codymo.in.ua/channel_assets/ugory/Ugory_fragment.fig)
@@ -15,8 +15,11 @@
 ### Додаткові посилання
 - [Завантажити VSCode](https://code.visualstudio.com/download)
 - [Плагін для VScode - eCSSTracktor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
+- [Калькурятор vw/vh в px](https://vw.joealden.com/)
+- [Одиниці вимірювання CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
 ### Відео верстки макета
 - [Перша частина](https://youtu.be/yYWRMVzjTmU)
 - [Друга частина](https://youtu.be/8nx6WdUmeA0)
 - [Третя частина](https://youtu.be/xhKGbjPDsqQ)
+- [Четверта частина](https://youtu.be/iJyqz7l2xLA)
